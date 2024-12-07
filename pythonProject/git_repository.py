@@ -1,3 +1,7 @@
 print('nig'
       'sdas'
-      'ger')
+      'ger'
+      ''
+      'sdf'
+      'dsf'
+      '')
