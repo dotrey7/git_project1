@@ -1,0 +1,3 @@
+print('nig'
+      'sdas'
+      'ger')
