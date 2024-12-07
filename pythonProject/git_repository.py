@@ -1,4 +1,1 @@
-print('nig'
-      'sdas'
-      'ger'
-      '')
+print('neweeewewewe')
